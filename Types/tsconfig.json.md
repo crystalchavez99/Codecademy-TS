@@ -25,3 +25,5 @@
 * by including a `tsconfig.json `file, you can now use the command tsc without any arguments in your terminal
 
 https://www.typescriptlang.org/docs/handbook/compiler-options.html
+
+* To generate: `tsc --init`
